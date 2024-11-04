@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InnomaticsAssignment7/static/css/main.13abe86a.css",
+    "main.js": "/InnomaticsAssignment7/static/js/main.37cf2eb6.js",
+    "static/js/453.6e59a76a.chunk.js": "/InnomaticsAssignment7/static/js/453.6e59a76a.chunk.js",
+    "index.html": "/InnomaticsAssignment7/index.html",
+    "main.13abe86a.css.map": "/InnomaticsAssignment7/static/css/main.13abe86a.css.map",
+    "main.37cf2eb6.js.map": "/InnomaticsAssignment7/static/js/main.37cf2eb6.js.map",
+    "453.6e59a76a.chunk.js.map": "/InnomaticsAssignment7/static/js/453.6e59a76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13abe86a.css",
+    "static/js/main.37cf2eb6.js"
+  ]
+}
