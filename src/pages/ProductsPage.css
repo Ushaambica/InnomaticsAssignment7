@@ -1,0 +1,15 @@
+/* ProductsPage.css */
+
+.product-grid {
+    display: flex; /* Use flexbox for layout */
+    flex-wrap: wrap; /* Allow items to wrap onto the next line */
+    justify-content: space-between; /* Distribute space between items */
+    gap: 20px; /* Optional: space between product cards */
+    padding: 20px; /* Optional: padding around the grid */
+  }
+  
+  .product-grid > * {
+    flex: 1 1 calc(25% - 20px); /* Make each card take up 25% of the width minus the gap */
+    box-sizing: border-box; /* Ensure padding and borders are included in the total width */
+  }
+  
